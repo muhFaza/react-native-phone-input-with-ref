@@ -1,0 +1,25 @@
+{
+  "name": "react-native-phone-input-with-ref",
+  "version": "1.0.0",
+  "description": "React Native Phone Input with ref support, forked from react-native-phone-number-input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhFaza/react-native-phone-input-with-ref.git"
+  },
+  "keywords": [
+    "react-native",
+    "phone-input",
+    "phone-number",
+    "ref-support"
+  ],
+  "author": "muhFaza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhFaza/react-native-phone-input-with-ref/issues"
+  },
+  "homepage": "https://github.com/muhFaza/react-native-phone-input-with-ref#readme"
+}
