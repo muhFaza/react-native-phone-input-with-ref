@@ -1,6 +1,6 @@
 {
   "name": "react-native-phone-input-with-ref",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "React Native Phone Input with ref support, forked from react-native-phone-number-input",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,16 @@
     "url": "git+https://github.com/muhFaza/react-native-phone-input-with-ref.git"
   },
   "keywords": [
+    "phone",
+    "telephone",
+    "phone input",
+    "input",
+    "tel",
+    "input text",
+    "international",
+    "react-native-component",
+    "ios",
+    "android",
     "react-native",
     "phone-input",
     "phone-number",
@@ -21,5 +31,16 @@
   "bugs": {
     "url": "https://github.com/muhFaza/react-native-phone-input-with-ref/issues"
   },
-  "homepage": "https://github.com/muhFaza/react-native-phone-input-with-ref#readme"
+  "homepage": "https://github.com/muhFaza/react-native-phone-input-with-ref#readme",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "dependencies": {
+    "google-libphonenumber": "^3.2.10",
+    "react-native-country-picker-modal": "^2.0.0"
+  },
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.61.0"
+  }
 }
